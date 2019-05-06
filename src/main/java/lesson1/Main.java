@@ -1,5 +1,13 @@
 package lesson1;
 
+import lesson1.competitor.Cat;
+import lesson1.competitor.Competitor;
+import lesson1.competitor.Dog;
+import lesson1.competitor.Human;
+import lesson1.course.Cross;
+import lesson1.course.Obstacle;
+import lesson1.course.Wall;
+
 public class Main {
     public static void main(String[] args) {
         Competitor[] competitors = {new Human("Боб"), new Cat("Барсик"), new Dog("Бобик")};
