@@ -1,4 +1,6 @@
-package lesson1;
+package lesson1.competitor;
+
+import lesson1.competitor.Animal;
 
 public class Cat extends Animal {
     public Cat(String name) {

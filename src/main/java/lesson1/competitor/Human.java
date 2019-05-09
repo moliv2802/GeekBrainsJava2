@@ -1,4 +1,4 @@
-package lesson1;
+package lesson1.competitor;
 
 public class Human implements Competitor {
     String name;

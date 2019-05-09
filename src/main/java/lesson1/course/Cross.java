@@ -1,4 +1,6 @@
-package lesson1;
+package lesson1.course;
+
+import lesson1.competitor.Competitor;
 
 public class Cross extends Obstacle {
     int length;
@@ -12,4 +14,6 @@ public class Cross extends Obstacle {
         competitor.run(length);
     }
 }
+
+
 
