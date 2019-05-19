@@ -1,0 +1,27 @@
+#textField {
+    -fx-background-image: url(https://deti-online.com/img/raskraski/hello-kitty/hello-kitti-s-ptichkami.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 100%;
+    -fx-font-family: "Segoe Print";
+}
+#textArea {
+    -fx-background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6j_BbKbFc1wr-hMxbCyLHodnLuZIV30nQ_kGLPuG2QD0rrap);
+    -fx-background: rgba(00,00,00,0.5);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 100%;
+    -fx-font-family: "Segoe Print";
+    -fx-background-size: cover;
+}
+#btn1 {
+    -fx-font-family: "Segoe Print";
+    -fx-background-color: pink;
+    -fx-font-weight: 700;
+}
+#btn1:hover {
+    -fx-background-image: url(https://avatanplus.com/files/resources/mid/58c19acfcce7715ab444bbdf.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 100%;
+}
