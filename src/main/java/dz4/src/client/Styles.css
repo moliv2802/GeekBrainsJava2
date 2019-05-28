@@ -4,15 +4,16 @@
     -fx-background-position: center;
     -fx-background-size: 100%;
     -fx-font-family: "Segoe Print";
+    -fx-font-weight: 900;
 }
 #textArea {
-    -fx-background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6j_BbKbFc1wr-hMxbCyLHodnLuZIV30nQ_kGLPuG2QD0rrap);
     -fx-background: rgba(00,00,00,0.5);
     -fx-background-repeat: no-repeat;
     -fx-background-position: center;
     -fx-background-size: 100%;
     -fx-font-family: "Segoe Print";
     -fx-background-size: cover;
+    -fx-font-weight: 900;
 }
 #btn1 {
     -fx-font-family: "Segoe Print";
@@ -24,4 +25,14 @@
     -fx-background-repeat: no-repeat;
     -fx-background-position: center;
     -fx-background-size: 100%;
+}
+.text-area .content {
+    -fx-background-image: url(https://i.pinimg.com/originals/8d/e0/49/8de04940a8854034e327f1ab06fe59b5.jpg);
+    -fx-background-size: cover;
+}
+
+.text-area {
+
+    -fx-text-fill: Lavender;
+
 }
